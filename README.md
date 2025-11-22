@@ -1,4 +1,3 @@
-<!-- Profile Header Animation -->
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FFFFFF;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreyash;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
