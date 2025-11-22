@@ -32,18 +32,6 @@
 
 ---
 
-### 📂 Notable Projects
-
-| 🔧 Project | 💬 Description | 🔗 Link |
-|-----------|----------------|--------|
-| 📈 **Stock Tracker** | Real-time stock market app using public APIs and charts | [View Repo](https://github.com/ShreyashGitHubb/stock-market-tracker) |
-| 🎙️ **Voice Quiz App** | AI-powered quiz interface using Web Speech API | [View Repo](https://github.com/ShreyashGitHubb/voice-quiz-app) |
-| ⌨️ **Typing Speed App** | Sleek typing test app with dark UI inspired by Monkeytype | [View Repo](https://github.com/ShreyashGitHubb/typing-speed-tester) |
-| 🔐 **Auth System** | Full login/signup with MySQL integration (clean UI) | [View Repo](https://github.com/ShreyashGitHubb/login-system-mysql) |
-| 🎮 **EchoRun (Game)** | 2D platformer with echo vision mechanics | [View Repo](https://github.com/ShreyashGitHubb/echo-run) |
-
----
-
 
 ### 🏆 Highlights & Achievements
 
