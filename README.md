@@ -4,7 +4,6 @@
 </h1>
 
 
-
 <p align="center">
   <i>Creative Developer • Problem Solver • Tech Enthusiast</i>
 </p>
