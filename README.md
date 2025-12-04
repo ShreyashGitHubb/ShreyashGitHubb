@@ -85,10 +85,10 @@ My work spans AI tooling, full-stack engineering, automation utilities, and real
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyashGitHubb&show_icons=true&theme=tokyonight&hide_border=true" width="46%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShreyashGitHubb&show_icons=true&theme=tokyonight&hide_border=true" width="46%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashGitHubb&theme=tokyonight&hide_border=true" width="46%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashGitHubb&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShreyashGitHubb&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
 </p>
 
 ---
