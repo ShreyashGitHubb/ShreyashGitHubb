@@ -3,71 +3,123 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreyash;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
-  <i>Creative Developer • Problem Solver • Tech Enthusiast</i>
-</p>
-
-
----
-### 👨‍💻 About Me
-
-- 🔭 Working on innovative MERN stack & AI projects
-- 🎓 Diploma in Cloud Computing & Big Data
-- 🚀 Participated in Multiple Hackathon
-- 🌱 Constantly learning new technologies
-- 🧩 Passionate about Coding, design, and automation
-
-
-
----
-
-### 🛠️ Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,cpp,git,vscode,jupyter" />
+  <strong>Full-Stack Developer • AI Engineer</strong><br/>
+  Building reliable tools, scalable systems, and meaningful digital experiences.
 </p>
 
 ---
 
+## 🧾 Profile
 
-### 🏆 Highlights & Achievements
-
-- 🎓 Pursuing Diploma in Cloud Computing & Big Data  
-- 🥇 Finalist – Codeverse 2.0 Hackathon  
-- 🚀 Built full-stack apps, game logic & voice-based UIs  
-- 🎯 Focused on building impactful, scalable digital tools  
-- 🧩 Passionate about solving logic problems and puzzles  
+I design and build production-grade systems with a focus on clarity, performance, and clean architecture.  
+My work spans AI tooling, full-stack engineering, automation utilities, and real-world digital products used by actual users.
 
 ---
 
-### 📈 GitHub Insights
+## 🔧 Featured Projects
+
+### 🧠 NeuroShard — Chunked Model & Data Versioning  
+- Content-addressed sharding system for large AI models  
+- Deduplicated chunk storage with reproducible reconstruction  
+- Developer-friendly CLI designed for heavy data workflows  
+**Repo:** https://github.com/ShreyashGitHubb/neuroshard  
+
+---
+
+### 💹 FinPilot — Finance Analysis Assistant  
+- AI-powered financial insights and analytics dashboard  
+- Clean UI paired with intelligent, practical utilities  
+- Fast, responsive, and designed for real-world usage  
+**Live:** https://deployed-finpilot.vercel.app  
+
+---
+
+### 🔗 Nosh-IT QR — Smart QR Generator  
+- Minimal, professional QR code generator  
+- Lightweight, efficient, and production-ready  
+**Live:** https://nosh-it-qr.vercel.app  
+
+---
+
+### 🧪 DevPreflight — Pre-Deployment Project Checker  
+- Automated system to validate project integrity before deployment  
+- Ensures structure, environment, and config consistency  
+- Reduces production-breaking mistakes  
+**Repo:** https://github.com/ShreyashGitHubb/devpreflight  
+
+---
+
+### 🧬 MedScan-AI — Medical Insights via AI  
+- AI tool for interpreting medical text and generating structured insights  
+- Clean, simple interface with accurate ML-powered processing  
+**Repo:** https://github.com/ShreyashGitHubb/MedScan-AI  
+
+---
+
+### 🧭 FCRM-Pro — Company CRM Management System  
+- Lightweight CRM solution for businesses  
+- Handles clients, records, and workflow management  
+- Built with clean architecture and reliability in mind  
+**Repo:** https://github.com/ShreyashGitHubb/fcrm-pro  
+
+---
+
+## 🎯 Current Focus
+
+- AI infrastructure & model versioning  
+- Backend architecture & performance engineering  
+- Developer tooling & automation  
+- Scalable full-stack products  
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyashGitHubb&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashGitHubb&theme=react&hide_border=true" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashGitHubb&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mongodb,mysql,python,cpp,java,git,github,vscode,bash,jupyter&perline=10"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## ⚡ GitHub Stats
 
 <p align="center">
-  <a href="mailto:shreyasvishwakarma00@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ShreyashGitHubb"><img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_feel_anything_"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyashGitHubb&show_icons=true&theme=tokyonight&hide_border=true" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashGitHubb&theme=tokyonight&hide_border=true" width="46%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashGitHubb&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
 </p>
 
 ---
 
-### ✨ Random Dev Quote
-
+## 🌌 Contribution Graph  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyashGitHubb&theme=react-dark&hide_border=true&radius=6" />
 </p>
 
 ---
 
-> 🧠 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
+## 🔮 Tech Philosophy
+
+> **I build systems that don’t break, scale without screaming, and work even when humans don’t.**
+
+- Speed matters when users expect instant  
+- Clean architecture beats clever hacks  
+- Automation is the future of engineering  
+- Reliability is a feature  
+
+---
+
+## 🌍 Connect  
+<p align="center">
+  <a href="mailto:shreyasvishwakarma00@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ShreyashGitHubb"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_feel_anything_"><img src="https://img.shields.io/badge/Instagram-cc2366?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><sub>“Code that looks good is nice. Code that survives production is legendary.”</sub></p>
+
