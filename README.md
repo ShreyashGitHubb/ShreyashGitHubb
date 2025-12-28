@@ -38,7 +38,7 @@ My work spans AI tooling, full-stack engineering, automation utilities, and real
 ### 🔗 Nosh-IT QR — Smart QR Generator  
 - Minimal, professional QR code generator  
 - Lightweight, efficient, and production-ready  
-**Live:** https://nosh-it-qr.vercel.app  
+**Live:** https://noshit.in  
 
 ---
 
