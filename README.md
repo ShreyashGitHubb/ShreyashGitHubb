@@ -19,6 +19,23 @@ My work spans AI tooling, full-stack engineering, automation utilities, and real
 
 ## 🔧 Featured Projects
 
+### 🎉 Biz Millennium Events — Event Management Platform  
+- Full-stack, production-ready event management system  
+- Supports registrations, payments, QR check-ins, and analytics  
+- Built for real client usage with scalable architecture  
+**Live:** https://events.bizmillennium.com  
+
+**Tech:** Next.js 14 · Supabase · Stripe · React Email · PostgreSQL · Vercel  
+
+---
+
+### 🔗 Nosh-IT QR — Smart QR Generator  
+- Minimal, professional QR code generator  
+- Lightweight, efficient, and production-ready  
+**Live:** https://noshit.in  
+
+---
+
 ### 🧠 NeuroShard — Chunked Model & Data Versioning  
 - Content-addressed sharding system for large AI models  
 - Deduplicated chunk storage with reproducible reconstruction  
@@ -32,13 +49,6 @@ My work spans AI tooling, full-stack engineering, automation utilities, and real
 - Clean UI paired with intelligent, practical utilities  
 - Fast, responsive, and designed for real-world usage  
 **Live:** https://deployed-finpilot.vercel.app  
-
----
-
-### 🔗 Nosh-IT QR — Smart QR Generator  
-- Minimal, professional QR code generator  
-- Lightweight, efficient, and production-ready  
-**Live:** https://noshit.in  
 
 ---
 
